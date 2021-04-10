@@ -14,3 +14,4 @@
 
 ### Task 3: Dashboard
 
+![GitHub Logo](/Dashboard.png)
