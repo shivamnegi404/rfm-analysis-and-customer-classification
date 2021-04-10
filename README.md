@@ -5,4 +5,4 @@
 ## Task 2: Data Insights: Data Exploration, Model Development, and Model Interpretation
 
 ## Task 3: Dashboard
-(Dashboard)[!Dashboard.png]
+!(Dashboard)[https://github.com/shivamnegi404/rfm-analysis-and-customer-classification/Dashboard.png]
