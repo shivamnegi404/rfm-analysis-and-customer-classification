@@ -1,4 +1,4 @@
-# RFM Analysis and Customer Classification
+# RFM Customer Segmentation and Analysis
 
 ## Problem Outline
 - Sprocket Central is a company that specializes in high quality bike and cycling accessories.
