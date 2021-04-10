@@ -1,9 +1,9 @@
 # RFM Analysis and Customer Classification
 
 ## Problem Outline
-• Sprocket Central is a company that specializes in high quality bike and cycling accessories.
-• Their marketing team is looking to boost business sales by analysing provided datasets.
-• Using the 3 datasets provided the aim is to analyse and recommend 1000 customers that Sprocket Central should target to drive higher value for the company.
+- Sprocket Central is a company that specializes in high quality bike and cycling accessories.
+- Their marketing team is looking to boost business sales by analysing provided datasets.
+- Using the 3 datasets provided the aim is to analyse and recommend 1000 customers that Sprocket Central should target to drive higher value for the company.
 
 
 ### Task 1: Data Quality Assesment
